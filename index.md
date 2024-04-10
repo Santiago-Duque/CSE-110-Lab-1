@@ -1,4 +1,4 @@
-# Welcome to my Page!  
+# Welcome!  
   
 ## **Introduction**  
 Hello there! I am Santiago Duque. I am a third-year computer science student at University of California San Diego who is passionate about programming & always inspired to learn!  
@@ -12,7 +12,7 @@ Hello there! I am Santiago Duque. I am a third-year computer science student at 
 >* I am **adventurous**  
 >* I like playing *video games*!  
   
-  >Treat others the way you'd like to be treated  
+  >" *Treat others the way you'd like to be treated*  "
   
 ## Good Food  
 I recommend trying out [Raising Canes!](https://raisingcanes.com/home/). It's delicious!  
@@ -20,16 +20,13 @@ I recommend trying out [Raising Canes!](https://raisingcanes.com/home/). It's de
   
 ## Favorite Programming Languages  
 Here are some of my favorite programming languages!:  
-1. C++  
-2. Java  
-3. Python  
+1. C++  `std::cout < Hello! < endl;`  
+2. Java `System.out.println("Hi there!");`  
+3. Python  `print("Hola!")`  
   
 ## Goals for this academic year  
 - [x] Wake up earlier  
 - [x] Get good grades  
 - [x] Follow daily routines
-
-## Projects  
-Check out these projects I have worked on during my time at UCSD!  
-* [Brooklyn Property Prices and Gentrification](https://github.com/Santiago-Duque/Brooklyn-Property-Prices-Gentrification/blob/master/FinalProject_Group044_WI24.ipynb)  
-* More to come! (add huffman project, dice/wedding project)
+  
+[Click Here To Go Back To The Top](#welcome)
